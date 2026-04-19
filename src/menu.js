@@ -14,10 +14,10 @@ export function menuMessage(groupJid) {
   const prefix = getPrefix(groupJid);
 
   return `╭━━⪩ BEM VINDO! ⪨━━${readMore()}
-▢
-▢ • ${BOT_NAME}
-▢ • Data: ${date.toLocaleDateString("pt-br")}
-▢ • Hora: ${date.toLocaleTimeString("pt-br")}
+▢ 
+▢ • 🤖 Nome: ${BOT_NAME}
+▢ • 👑 Dono: LUIS
+▢ • 📞 Número: 5551991237905
 ▢ • Prefixo: ${prefix}
 ▢ • Versão: ${pkg.version}
 ▢
