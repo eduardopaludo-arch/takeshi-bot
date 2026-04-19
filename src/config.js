@@ -16,7 +16,7 @@ export const BOT_NAME = "GLITCH MASTER";
 // LID do bot.
 // Para obter o LID do bot, use o comando <prefixo>lid respondendo em cima de uma mensagem do número do bot
 // Troque o <prefixo> pelo prefixo do bot (ex: /lid).
-export const BOT_LID = "12896934990@s.whatsapp.net";
+export const BOT_LID = "";
 
 // LID do dono do bot.
 // Para obter o LID do dono do bot, use o comando <prefixo>meu-lid
